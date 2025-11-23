@@ -12,9 +12,6 @@ Passionate about system design, networking, and building clean user interfaces.
 ### 📊 Skill Proficiency
 ![Skills Chart](skills_chart.png)
 
-### 🌐 Language Proficiency
-![Language Chart](language_chart.png)
-
 ---
 
 ## 🧰 Technical Skills
