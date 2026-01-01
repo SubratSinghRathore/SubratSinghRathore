@@ -1,4 +1,5 @@
 # 👋 Hi, I'm **Subrat Singh**
+![Subrat Singh Rathore](git_image.png)
 
 ### 🚀 React Full Stack Developer
 
