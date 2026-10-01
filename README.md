@@ -19,11 +19,9 @@ I enjoy working across the stack—from designing React interfaces and REST APIs
 
 ---
 
-## 📄 Resume
-
 <p align="center">
-  <a href="./subrat_singh_resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  <a href="https://github.com/SubratSinghRathore/SubratSinghRathore/raw/refs/heads/main/subrat_singh_resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge" alt="Download Resume">
   </a>
 </p>
 
